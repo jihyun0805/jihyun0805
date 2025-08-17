@@ -1,4 +1,4 @@
-## Hi there 👋
+## SW Expert Academy 알고리즘 문제
 
 <!--
 **jihyun0805/jihyun0805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
