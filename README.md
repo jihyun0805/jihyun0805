@@ -9,7 +9,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔥 About me </h2> <br> 
         
 - 📚 경영학 전공 & 빅데이터사이언스 이중전공  
-- 💻 삼성청년SW아카데미(SSAFY) 14기 교육과정 수료 중
+- 💻 삼성청년SW/AI아카데미(SSAFY) 14기 교육과정 수료 중
 - 🎯 Vue + Django를 활용한 웹 풀스택 프로젝트 진행  
 
   
