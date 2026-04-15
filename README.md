@@ -2,29 +2,37 @@
   <h3>
     🌱 꾸준히 성장하는 개발자 | 사용자 경험을 고민하는 개발자
   </h3>
+  <p>
+    📌 데이터와 인프라를 이해하고, 사용자 경험까지 연결하는 풀스택 개발자
+  </p>
 </div>
 
+<br/>
 
 <div style="text-align:left;">
   <h2> 👋 Hello! </h2>
 
   <p>
-    <b>웹 풀스택 개발</b>을 공부하며,  
+    <b>웹 풀스택 개발</b>을 공부하며,
     <b>서비스를 끝까지 완성하는 과정</b>에서 가장 큰 보람을 느낍니다.
   </p>
 
   <p>
-    기능을 만드는 데서 멈추지 않고,  
-    <b>이 기능이 왜 필요한지</b>,  
+    기능 구현에 머무르지 않고,
+    <b>이 기능이 왜 필요한지</b>,
     <b>사용자는 어떤 흐름으로 경험할지</b>를 함께 고민합니다.
   </p>
 
   <p>
-    작은 개선이 모여  
+    또한 클라우드와 인프라에 대한 이해를 바탕으로
+    <b>비용과 구조까지 고려하는 개발</b>을 지향합니다.
+  </p>
+
+  <p>
+    작은 개선이 모여
     <b>사용자에게 분명한 가치를 주는 서비스</b>를 만든다고 믿습니다.
   </p>
 </div>
-
 
 <br/>
 
@@ -33,34 +41,82 @@
   <ul style="line-height:1.9; color:#282d33;">
     <li>📚 경영학 전공 & 빅데이터사이언스 이중전공</li>
     <li>💻 삼성청년SW/AI아카데미(SSAFY) 14기 교육과정 수료 중</li>
-    <li>🎯 Django + Vue 기반 웹 풀스택 프로젝트 경험</li>
+    <li>🎯 웹 풀스택 프로젝트 경험 (Frontend + Backend)</li>
     <li>🏆 SSAFY 생성형 AI + 금융 데이터 기반 로보 어드바이저 서비스 우수상 (MoA)</li>
+    <li>📊 데이터 분석부터 서비스 구현까지 연결하는 개발 경험</li>
   </ul>
 </div>
-
 
 <br/>
 
 ## 📂 Projects
 
-- 🌱 MoA (My own Advisor)  
-  생성형 AI와 금융 데이터를 활용한 예·적금 비교 및 추천 로보 어드바이저 웹 서비스 구현, 사용자 맞춤 금융 상품 탐색과 커뮤니티 기능 제공
+### 🌱 MoA (My own Advisor)
+> 생성형 AI와 금융 데이터를 활용한 예·적금 추천 및 금융 커뮤니티 서비스
 
-- 💳 데이터 마이닝 프로젝트  
-  카드사 고객 데이터 기반 고객 군집화 모델 구현 및 소비 패턴 분석을 통한 타겟 마케팅 전략 도출
+- 예·적금 상품 비교 및 추천 기능 구현
+- 사용자 맞춤 금융 상품 탐색 및 커뮤니티 기능 제공
+- 데이터 기반 의사결정을 서비스로 연결한 프로젝트
 
-- 🎬 딥러닝 프로젝트  
-  영화 포스터 이미지 기반 흥행 성적 예측 딥러닝 모델 구현 및 CNN 기반 이미지 특성 추출·성능 비교
+---
 
-- 📰 크롤링 & 텍스트 분석 프로젝트  
-  기업 재무정보 기사 웹 크롤링 파이프라인 구축 및 텍스트 전처리 기반 흑자 전환 요인 분석
+### 💞 Unblur
+> 사용자 간 매칭 후 점진적으로 얼굴이 공개되는 블라인드 소개팅 서비스
 
-- 🧠 Kaggle AI Challenge  
-  Kaggle AI 챌린지 참여, 데이터 전처리·모델 학습·성능 개선 실험 수행
+- 사용자 매칭 후 점진적 얼굴 공개 UX 구현
+- WebSocket 기반 실시간 채팅 및 영상 연결 구조 설계
+- 사용자 흐름 중심 UI/UX 개선 및 컴포넌트 구조 설계
+- 프론트엔드 담당으로 React + TypeScript 기반 화면 구현 및 API 연동 수행
 
-- 🗂️ 아카이브 미니 프로젝트  
-  개인 프로젝트 및 학습 결과 정리를 위한 아카이브 웹 서비스 구현과 CRUD 기반 프로젝트 관리 구조 설계
+---
 
+### 💸 절감이 (JeolgamAI)
+> 클라우드 리소스 사용량을 분석해 비용 절감 방안을 제시하는 FinOps 서비스
+
+- AWS 및 Kubernetes 메트릭 기반 비용 분석 서비스 구현
+- Prometheus 기반 리소스 사용량 수집 및 시각화 구조 설계
+- 유휴 자원 탐지 및 비용 절감 방안 제안
+- 약 **27% 비효율 자원 탐지**, 약 **8% 비용 절감 효과 검증**
+
+---
+
+### 💳 데이터 마이닝 프로젝트
+> 카드사 고객 데이터를 분석하여 고객 군집화 및 타겟 마케팅 전략을 도출한 프로젝트
+
+- 고객 군집화 모델 구현
+- 소비 패턴 분석 기반 마케팅 전략 도출
+
+---
+
+### 🎬 딥러닝 프로젝트
+> 영화 포스터 이미지를 기반으로 흥행 성적을 예측하는 딥러닝 모델 개발 프로젝트
+
+- CNN 기반 이미지 특징 추출
+- 모델 성능 비교 및 개선
+
+---
+
+### 📰 크롤링 & 텍스트 분석 프로젝트
+> 기업 재무 관련 뉴스 데이터를 수집·분석하여 흑자 전환 요인을 도출한 프로젝트
+
+- 웹 크롤링 파이프라인 구축
+- 텍스트 전처리 및 분석 수행
+
+---
+
+### 🧠 Kaggle AI Challenge
+> Kaggle 대회 참여를 통해 데이터 전처리와 모델 성능 개선을 반복적으로 실험한 프로젝트
+
+- 데이터 전처리 및 모델 학습
+- 성능 개선 실험 반복 수행
+
+---
+
+### 🗂️ 아카이브 미니 프로젝트
+> 개인 프로젝트 및 학습 내용을 관리하기 위한 CRUD 기반 웹 서비스
+
+- 프로젝트 관리 기능 설계 및 구현
+- CRUD 구조 기반 데이터 관리
 
 <br/>
 
@@ -69,10 +125,10 @@
   <ul style="line-height:1.9; color:#282d33;">
     <li>🔥 React + TypeScript로 프론트엔드 역량 확장 중</li>
     <li>🧩 컴포넌트 재사용성과 상태관리 패턴 학습</li>
+    <li>☁️ Docker / Kubernetes / AWS 기반 인프라 이해 확장</li>
     <li>📈 프로젝트 기반으로 기획 의도와 코드 구조를 연결하는 개발 지향</li>
   </ul>
 </div>
-
 
 <br/>
 
@@ -86,9 +142,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
   <br/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 </div>
@@ -101,6 +157,34 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+</div>
+
+<br/>
+
+<h3 style="color:#282d33;">📌 Database</h3>
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+
+<br/>
+
+<h3 style="color:#282d33;">📌 Infra & DevOps</h3>
+<div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
 </div>
 
 <br/>
@@ -118,8 +202,6 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
-
-
 
 <br/>
 
