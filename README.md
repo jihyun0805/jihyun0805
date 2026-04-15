@@ -28,10 +28,6 @@
     <b>비용과 구조까지 고려하는 개발</b>을 지향합니다.
   </p>
 
-  <p>
-    작은 개선이 모여
-    <b>사용자에게 분명한 가치를 주는 서비스</b>를 만든다고 믿습니다.
-  </p>
 </div>
 
 <br/>
@@ -80,6 +76,15 @@
 
 ---
 
+### 📊 경영경제자료분석 프로젝트
+> 재무 데이터 기반 신용평가 모델을 구축하여 부실 고객을 예측한 프로젝트
+
+- 변수별 영향도 비교를 통한 모델 최적화 수행
+- 고객 부실 여부 예측 모델 구축 및 성능 평가 (Accuracy, AUC 기반)
+- 데이터 기반 의사결정을 위한 분석 경험 축적
+
+---
+
 ### 💳 데이터 마이닝 프로젝트
 > 카드사 고객 데이터를 분석하여 고객 군집화 및 타겟 마케팅 전략을 도출한 프로젝트
 
@@ -111,12 +116,6 @@
 - 성능 개선 실험 반복 수행
 
 ---
-
-### 🗂️ 아카이브 미니 프로젝트
-> 개인 프로젝트 및 학습 내용을 관리하기 위한 CRUD 기반 웹 서비스
-
-- 프로젝트 관리 기능 설계 및 구현
-- CRUD 구조 기반 데이터 관리
 
 <br/>
 
@@ -175,6 +174,7 @@
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
