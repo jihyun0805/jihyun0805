@@ -37,6 +37,7 @@
     <li>📚 경영학 전공 & 빅데이터사이언스 이중전공</li>
     <li>💻 삼성청년SW/AI아카데미(SSAFY) 14기 교육과정 수료 중</li>
     <li>🎯 웹 풀스택 프로젝트 경험 (Frontend + Backend)</li>
+    <li>🏢 엔키아(NKIA) 기업연계 프로젝트 기반 영업관리시스템 개발 경험</li>
     <li>🏆 SSAFY 생성형 AI + 금융 데이터 기반 로보 어드바이저 서비스 우수상 (MoA)</li>
     <li>📊 데이터 분석부터 서비스 구현까지 연결하는 개발 경험</li>
   </ul>
@@ -50,12 +51,37 @@
   <tr>
     <td valign="top" width="50%">
 
+### 🏢 Nkia 영업관리시스템
+> 엔키아(Nkia) 기업연계 기반 영업관리 업무 지원 시스템
+
+- 영업 활동, 발굴, 견적, 결제 프로세스 등 영업관리 업무 흐름 기반 화면 구현
+- Next.js 기반 프론트엔드 개발 및 백엔드 API 연동 수행
+- Docker Compose와 Jenkins 기반 CI/CD 및 EC2 배포 환경 구성 경험
+- Nginx, Jenkins, Docker, PostgreSQL 등 서비스 운영 환경 이해 및 문제 해결
+
+    </td>
+    <td valign="top" width="50%">
+
 ### 🌱 MoA (My own Advisor)
 > 생성형 AI와 금융 데이터를 활용한 예·적금 추천 및 금융 커뮤니티 서비스
 
 - 예·적금 상품 비교 및 추천 기능 구현
 - 사용자 맞춤 금융 상품 탐색 및 커뮤니티 기능 제공
 - 데이터 기반 의사결정을 서비스로 연결한 프로젝트
+
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+
+### 💸 절감이 (JeolgamAI)
+> 클라우드 리소스 사용량을 분석해 비용 절감 방안을 제시하는 FinOps 서비스
+
+- AWS 및 클라우드 메트릭 기반 비용 분석 서비스 구현
+- Prometheus 기반 리소스 사용량 수집 및 시각화 구조 설계
+- 유휴 자원 탐지 및 비용 절감 방안 제안
+- 약 **27% 비효율 자원 탐지**, 약 **8% 비용 절감 효과 검증**
 
     </td>
     <td valign="top" width="50%">
@@ -74,17 +100,6 @@
   <tr>
     <td valign="top" width="50%">
 
-### 💸 절감이 (JeolgamAI)
-> 클라우드 리소스 사용량을 분석해 비용 절감 방안을 제시하는 FinOps 서비스
-
-- AWS 및 Kubernetes 메트릭 기반 비용 분석 서비스 구현
-- Prometheus 기반 리소스 사용량 수집 및 시각화 구조 설계
-- 유휴 자원 탐지 및 비용 절감 방안 제안
-- 약 **27% 비효율 자원 탐지**, 약 **8% 비용 절감 효과 검증**
-
-    </td>
-    <td valign="top" width="50%">
-
 ### 📊 신용평가모형 프로젝트
 > 재무 데이터 기반 신용평가 모델을 구축하여 부실 고객을 예측한 프로젝트
 
@@ -93,18 +108,19 @@
 - Accuracy, AUC 기반으로 모델 성능 분석
 
     </td>
-  </tr>
-
-  <tr>
     <td valign="top" width="50%">
 
 ### 💳 데이터 마이닝 프로젝트
-> 카드사 고객 데이터를 분석하여 고객 군집화 및 타겟 마케팅 전략을 도출한 프로젝트
+> 하나카드 고객 데이터를 분석하여 고객 군집화 및 타겟 마케팅 전략을 도출한 프로젝트
 
-- 고객 군집화 모델 구현
-- 소비 패턴 분석 기반 마케팅 전략 도출
+- 하나카드 고객 데이터 기반 고객 세분화 및 군집 분석 수행
+- 소비 패턴 분석 기반 타겟 마케팅 전략 도출
+- 데이터 전처리 및 고객 특성 기반 분석 진행
 
     </td>
+  </tr>
+
+  <tr>
     <td valign="top" width="50%">
 
 ### 🎬 딥러닝 프로젝트
@@ -114,25 +130,14 @@
 - 모델 성능 비교 및 개선
 
     </td>
-  </tr>
-
-  <tr>
     <td valign="top" width="50%">
 
 ### 📰 크롤링 & 텍스트 분석 프로젝트
-> 기업 재무 관련 뉴스 데이터를 수집·분석하여 흑자 전환 요인을 도출한 프로젝트
+> SK하이닉스 재무제표 및 분기별 뉴스 데이터를 기반으로 실적 변동 요인을 분석한 프로젝트
 
-- 웹 크롤링 파이프라인 구축
-- 텍스트 전처리 및 분석 수행
-
-    </td>
-    <td valign="top" width="50%">
-
-### 🧠 Kaggle AI Challenge
-> Kaggle 대회 참여를 통해 데이터 전처리와 모델 성능 개선을 반복적으로 실험한 프로젝트
-
-- 데이터 전처리 및 모델 학습
-- 성능 개선 실험 반복 수행
+- SK하이닉스 관련 뉴스 데이터 크롤링 및 텍스트 데이터 수집
+- 재무제표 데이터와 뉴스 데이터를 결합한 분석 수행
+- 텍스트 전처리 및 키워드 기반 실적 변동 요인 분석
 
     </td>
   </tr>
@@ -145,7 +150,7 @@
   <ul style="line-height:1.9; color:#282d33;">
     <li>🔥 React + TypeScript로 프론트엔드 역량 확장 중</li>
     <li>🧩 컴포넌트 재사용성과 상태관리 패턴 학습</li>
-    <li>☁️ Docker / Kubernetes / AWS 기반 인프라 이해 확장</li>
+    <li>☁️ Docker / Jenkins / AWS 기반 인프라와 배포 환경 이해 확장</li>
   </ul>
 </div>
 
@@ -176,8 +181,6 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   </div>
 
   <br/>
@@ -195,8 +198,8 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/Docker%20Compose-384D54?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
     <br/>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
