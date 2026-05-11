@@ -203,13 +203,6 @@
     <br/>
     <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=GoogleCloud&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
-    <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
-    <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
-    <img src="https://img.shields.io/badge/Promtail-F46800?style=for-the-badge&logo=Grafana&logoColor=white">
   </div>
 
   <br/>
