@@ -35,7 +35,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color:#282d33;"> 🔥 About me </h2>
   <ul style="line-height:1.9; color:#282d33;">
     <li>📚 경영학 전공 & 빅데이터사이언스 이중전공</li>
-    <li>💻 삼성청년SW/AI아카데미(SSAFY) 14기 교육과정 수료 중</li>
+    <li>💻 삼성청년SW/AI아카데미(SSAFY) 14기 교육과정 수료 (2025.07.08 ~ 2026.06.30)</li>
     <li>🎯 웹 풀스택 프로젝트 경험 (Frontend + Backend)</li>
     <li>🏢 엔키아(NKIA) 기업연계 프로젝트 기반 영업관리시스템 개발 경험</li>
     <li>🏆 SSAFY 생성형 AI + 금융 데이터 기반 로보 어드바이저 서비스 우수상 (MoA)</li>
